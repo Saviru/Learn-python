@@ -1,3 +1,6 @@
+''' Tutorial 1: Variables in Python '''
+
+
 # Let's learn about variables in Python
 
 # Python variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable.
@@ -93,6 +96,10 @@ print(flt) # 3.14
 
 print(5) # 5
 print("Hello, World!") # Hello, World!
+
+# You can also use the print() function to output the value of the variable which is deleted. But it gives an error.
+
+print(g) # NameError: name 'g' is not defined
 
 
 
