@@ -1,4 +1,4 @@
-''' Tutorial 1: Variables in Python '''
+''' Tutorial 2: Variables in Python '''
 
 
 # Let's learn about variables in Python
@@ -101,6 +101,7 @@ print("Hello, World!") # Hello, World!
 
 print(g) # NameError: name 'g' is not defined
 
+""" This is all about variables in Python. In the next tutorial, I will explain about the strings in next tutorial."""
 
 
 
