@@ -103,8 +103,5 @@ print(g) # NameError: name 'g' is not defined
 
 """ This is all about variables in Python. In the next tutorial, I will explain about the strings in next tutorial."""
 
-
-
-
-
+# Thank You!
 
